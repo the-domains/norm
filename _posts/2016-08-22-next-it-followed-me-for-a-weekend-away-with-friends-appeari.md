@@ -1,16 +1,16 @@
 ---
+datePublished: '2016-08-22T21:39:52.730Z'
+sourcePath: >-
+  _posts/2016-08-22-next-it-followed-me-for-a-weekend-away-with-friends-appeari.md
+author: []
+via: {}
+dateModified: '2016-08-22T21:39:52.213Z'
+title: ''
+publisher: {}
 description: >-
   Next it followed me for a weekend away with friends, appearing in the kitchen,
   quietly.. watching…
-dateModified: '2016-08-22T19:11:04.991Z'
-datePublished: '2016-08-22T19:11:16.585Z'
-title: ''
-author: []
-publisher: {}
-via: {}
 starred: false
-sourcePath: >-
-  _posts/2016-08-22-next-it-followed-me-for-a-weekend-away-with-friends-appeari.md
 inFeed: true
 hasPage: false
 inNav: false
